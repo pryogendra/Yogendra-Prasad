@@ -1,2 +1,0 @@
-# Yogendra-Prasad
-Programming languages 
